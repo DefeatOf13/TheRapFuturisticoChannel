@@ -1,7 +1,5 @@
 # RapFuturistico.wad
-Canale WAD Rap Futuristico - Fabri Fibra
-
-The RAP FUTURISTICO channel made by DefeatOf13.
+The RAP FUTURISTICO CHANNEL made by DefeatOf13.
 
 Il canale è una parodia dell'Homebrew Channel, non dovrebbe avere effetti nocivi.
 
@@ -11,8 +9,9 @@ INSTALLATE IL WAD A VOSTRO RISCHIO E PERICOLO, NON PRENDERO' NESSUNA RESPONSABIL
 # NON TESTATO SU VWII (WII U) E WII MINI, TESTATO SU WII E DOLPHIN EMULATOR
 
 # Crediti:
-
 - Immagini, modifiche file WAD e tutto il resto: DefeatOf13
-- Musica: Reato di 2010 - Supfamicon (YT)
+- Musica
+  - Reato di 2010 - Supfamicon (YT)
+  - Tranne Te - Fabri Fibra
   
 In futuro non garantisco usciranno altri update.
