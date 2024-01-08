@@ -1,5 +1,4 @@
-# RapFuturistico.wad
-The RAP FUTURISTICO CHANNEL made by DefeatOf13.
+# The RAP FUTURISTICO Channel
 
 Il canale è una parodia dell'Homebrew Channel, non dovrebbe avere effetti nocivi.
 
