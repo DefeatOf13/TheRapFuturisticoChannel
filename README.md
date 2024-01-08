@@ -10,9 +10,9 @@ INSTALLATE IL WAD A VOSTRO RISCHIO E PERICOLO, NON PRENDERO' NESSUNA RESPONSABIL
 
 # NON TESTATO SU VWII (WII U) E WII MINI, TESTATO SU WII E DOLPHIN EMULATOR
 
-In futuro non garantisco usciranno altri update.
-
 # Crediti:
 
 - Immagini, modifiche file WAD e tutto il resto: DefeatOf13
 - Musica: Reato di 2010 - Supfamicon (YT)
+  
+In futuro non garantisco usciranno altri update.
