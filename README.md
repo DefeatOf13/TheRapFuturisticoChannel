@@ -1,6 +1,7 @@
 # The RAP FUTURISTICO Channel
 
 Questo canale per Nintendo Wii è una parodia di The Homebrew Channel.
+
 Basato su [Open Homebrew Channel](https://github.com/FIX94/hbc) by FIX94
 hbc version: 1.1.4
 
