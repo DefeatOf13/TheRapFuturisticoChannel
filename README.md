@@ -17,3 +17,6 @@ TESTATO SU vWII (WII U), WII MINI, WII E DOLPHIN EMULATOR (funzionanti al 100%).
   - [Tranne Te](https://youtu.be/-T0wpA4I040?si=OsYOXrJaex1oWHDR) - [Fabri Fibra](https://www.youtube.com/channel/UCdFScjCn5FsredL4iZdzmCQ)
   
 In futuro non garantisco usciranno altri update.
+
+# ARCHIVIATO
+Date le ultime notizie riguardanti HBC e libogc, questo canale verrà archiviato e NON riceverà più update in futuro
